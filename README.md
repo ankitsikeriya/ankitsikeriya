@@ -2,7 +2,7 @@
 <!-- Center everything in this section -->
 <p align="center">
   <!-- Profile Picture -->
-  <img src="https://avatars.githubusercontent.com/u/00000000?v=4" width="120" height="120" style="border-radius: 50%;" alt="ankitsikeriya" />
+  <img src="[https://avatars.githubusercontent.com/u/00000000?v=4](https://media.licdn.com/dms/image/v2/D4D03AQEBtGYaeshNUw/profile-displayphoto-shrink_200_200/B4DZPvlP9jG0AY-/0/1734891343074?e=1745452800&v=beta&t=mEc_LVpTf6VyowZY9N_dOFF-xMPjZiBjKhrwUApWwpE)" width="120" height="120" style="border-radius: 50%;" alt="ankitsikeriya" />
 </p>
 
 <!-- Typing Animation Title -->
@@ -49,10 +49,10 @@
 
 <p>
   <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/your-linkedin/">
+  <a href="[https://www.linkedin.com/in/your-linkedin/](https://www.linkedin.com/in/ankit-sikeriya-813030263/)">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <!-- Twitter -->
+  <!-- Twitter 
   <a href="https://twitter.com/your-twitter">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
@@ -88,27 +88,3 @@
 <p align="center">
   ✨ Thank you for visiting my GitHub profile! ✨
 </p>
-
-## About Me:
-- 🌱 I’m currently learning MERN stack
-- 💼 I’m looking to collaborate.
-- 🤔 I’m interested in Web-development, AI and ml.
-- 📫 How to reach me ankitsiker0@gmail.com
-
-## Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankit-sikeriya-813030263/)
-<!-- [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-profile)
-Add more social links as you like -->
-![Static Badge](https://img.shields.io/badge/:badgeContent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ankitsikeriya&layout=compact&theme=radical)
-![Profile views](https://komarev.com/ghpvc/?username=ankitsikeriya)
-
-## Tech Stack:
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-<!-- Add more badges for the languages/tools you use -->
-
-## GitHub Stats:
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=ankitsikeriya&show_icons=true&theme=radical)
