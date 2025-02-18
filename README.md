@@ -2,7 +2,7 @@
 <!-- Center everything in this section -->
 <p align="center">
   <!-- Profile Picture -->
-  <img src="[https://avatars.githubusercontent.com/u/00000000?v=4](https://media.licdn.com/dms/image/v2/D4D03AQEBtGYaeshNUw/profile-displayphoto-shrink_200_200/B4DZPvlP9jG0AY-/0/1734891343074?e=1745452800&v=beta&t=mEc_LVpTf6VyowZY9N_dOFF-xMPjZiBjKhrwUApWwpE)" width="120" height="120" style="border-radius: 50%;" alt="ankitsikeriya" />
+  <img src="https://ai-1o1-code-review.vercel.app/mysideangle.jpg" width="120" height="120" style="border-radius: 50%;" alt="ankitsikeriya" />
 </p>
 
 <!-- Typing Animation Title -->
