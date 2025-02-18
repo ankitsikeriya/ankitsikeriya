@@ -1,8 +1,8 @@
-# Hi there, I'm Ankit Sikeriya 👋
+.                                                      # Hi there, I'm Ankit Sikeriya 👋
 <!-- Center everything in this section -->
 <p align="center">
   <!-- Profile Picture -->
-  <img src="https://ai-1o1-code-review.vercel.app/mysideangle.jpg" width="120" height="120" style="border-radius: 50%;" alt="ankitsikeriya" />
+  <img src="https://media.licdn.com/dms/image/v2/D4D03AQEBtGYaeshNUw/profile-displayphoto-shrink_800_800/B4DZPvlP9jG0Ac-/0/1734891343074?e=1745452800&v=beta&t=YGvmEGcRMCRROFJ7DFQr2hjEoAhhQ19jUBzm2s05F70" width="120" height="120" style="border-radius: 50%;" alt="ankitsikeriya" />
 </p>
 
 <!-- Typing Animation Title -->
